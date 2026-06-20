@@ -579,7 +579,7 @@
       "imageURL": "https://raw.githubusercontent.com/PoepieFloepie/badges/refs/heads/main/NL.png",
       "isEnabled": true,
       "name": "NL",
-      "pattern": "(?i)\\b(dutch|nlsubs|flemish|nl-retailsub|nlaudio|gesproken)\\b",
+      "pattern": "(?i)\\b(dutch|nlsubs|flemish|nl-retailsub|nlaudio|gesproken|rappie)\\b",
       "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#A0A0A0",
